@@ -19,6 +19,9 @@
   "homepage": "https://github.com/troyyxk/express-demo#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "g": "^2.0.1"
+    "g": "^2.0.1",
+    "joi": "^14.3.1",
+    "nodemon": "^1.19.1",
+    "webpack-dev-server": "^3.8.0"
   }
 }
